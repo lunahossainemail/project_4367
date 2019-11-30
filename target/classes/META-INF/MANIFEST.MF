@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Built-By: hao
+Build-Jdk: 11.0.2
+Can-Retransform-Classes: true
+Created-By: Maven Integration for Eclipse
+Premain-Class: com.se4367.Agent
+
